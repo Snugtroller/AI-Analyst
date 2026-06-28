@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-tavily
+langchain-community
+langchain-core
+wikipedia
+duckduckgo-search
+tavily
+FirecrawlApp
+python-dotenv
