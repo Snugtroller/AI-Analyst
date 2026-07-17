@@ -6,5 +6,5 @@ langchain-core
 wikipedia
 duckduckgo-search
 tavily
-FirecrawlApp
+firecrawl-py
 python-dotenv
